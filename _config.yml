@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Siscore Visualization
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: The official interactive map of 'A human-machine collaborative approach measures economic development using satellite imagery'.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
